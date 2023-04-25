@@ -1505,19 +1505,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@dripsy/core@npm:^3.10.0":
-  version: 3.10.0
-  resolution: "@dripsy/core@npm:3.10.0"
-  dependencies:
-    "@expo/html-elements": ^0.2.0
-    "@react-native-community/hooks": ^2.6.0
-    "@theme-ui/css": ^0.4.0-rc.1
-    stable-hash: ^0.0.2
-    ts-toolbelt: ^9.6.0
-  checksum: a1e13ec6e42e8f2b7d2ec23fcf59f56bb8d2ca88d579fac4d7ec4fe6926e02fabb30b9209c2371fbd884dd412795809ad590ce44b5ad631c1d63fc57a1097362
-  languageName: node
-  linkType: hard
-
 "@egjs/hammerjs@npm:^2.0.17":
   version: 2.0.17
   resolution: "@egjs/hammerjs@npm:2.0.17"
@@ -2673,16 +2660,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@react-native-community/hooks@npm:^2.6.0":
-  version: 2.8.1
-  resolution: "@react-native-community/hooks@npm:2.8.1"
-  peerDependencies:
-    react: ">=16.8.0"
-    react-native: ">=0.59"
-  checksum: d1138c3203ebddcbeb7866724a22785df33e9f36b4b683ec90f5678b5eac9fe6e34eb22afd8aecf14145e17eb4df4fcddac8183f085476a90e658a5a7a7b45f0
-  languageName: node
-  linkType: hard
-
 "@react-native/assets@npm:1.0.0":
   version: 1.0.0
   resolution: "@react-native/assets@npm:1.0.0"
@@ -3305,7 +3282,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "app@workspace:packages/app"
   dependencies:
-    dripsy: ^3.6.0
+    dripsy: ^4.1.0
     moti: latest
     solito: 3.0.0
   languageName: unknown
@@ -4812,15 +4789,6 @@ __metadata:
   dependencies:
     esutils: ^2.0.2
   checksum: fd7673ca77fe26cd5cba38d816bc72d641f500f1f9b25b83e8ce28827fe2da7ad583a8da26ab6af85f834138cf8dae9f69b0cd6ab925f52ddab1754db44d99ce
-  languageName: node
-  linkType: hard
-
-"dripsy@npm:^3.6.0":
-  version: 3.10.0
-  resolution: "dripsy@npm:3.10.0"
-  dependencies:
-    "@dripsy/core": ^3.10.0
-  checksum: 828f6c126c06a2ff946c9aa889d6c11f7711887d9a7fb6c1ab6dd00e3ec1f9b043fb3a7902d46d913ee148f6c4cf5a3a0b6fbaf54be3c9ac69786e947aee9e4a
   languageName: node
   linkType: hard
 
